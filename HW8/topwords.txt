@@ -1,0 +1,31 @@
+Lib		        Con
+the 0.0442		the 0.0521
+to 0.0221		to 0.0249
+of 0.0196		of 0.0237
+and 0.0184		and 0.0201
+a 0.0173		a 0.0193
+in 0.0128		in 0.0149
+that 0.0108		that 0.0112
+is 0.0098		is 0.0110
+for 0.0083		for 0.0084
+on 0.0072		i 0.0076
+i 0.0069		it 0.0072
+this 0.0067		on 0.0070
+it 0.0065		this 0.0065
+by 0.0060		by 0.0055
+at 0.0048		with 0.0050
+with 0.0044		be 0.0050
+as 0.0043		have 0.0048
+you 0.0041		was 0.0048
+be 0.0039		as 0.0047
+was 0.0039		are 0.0046
+
+Do the two lists look different?
+Yes. The two lists look different, but they are very similar.
+
+Are there any overlapping words?
+Yes.
+overlapping words: the, to, of, and, a, in, that, is, for, on, i, this, it, by, with, as, be, was
+
+In general, what kind of words are they?
+In general, these words are preposition, be-verb and Pronoun. In the most of sentences, these word are included.

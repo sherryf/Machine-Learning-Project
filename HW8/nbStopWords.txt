@@ -1,0 +1,15 @@
+Investigate various settings for N—what values seem to improve the classifier?
+N = 10 -> Accuracy: 0.8056
+N = 20 -> Accuracy: 0.8056
+N = 30 -> Accuracy: 0.8333
+N = 40 -> Accuracy: 0.8611
+N = 50 -> Accuracy: 0.8611
+N = 60 -> Accuracy: 0.8333
+
+N = 45 -> Accuracy: 0.8611
+N = 41 -> Accuracy: 0.8611
+
+N = 55 -> Accuracy: 0.8333
+N = 54 -> Accuracy: 0.8611
+
+From the several experiments above, we can see that when N = 40, the accuracy increases and if N above 55, the accuracy decrease.

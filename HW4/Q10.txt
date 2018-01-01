@@ -1,0 +1,8 @@
+Which is more accurate on the training data? Which is more accurate on the testing data?
+Education dataset result:
+error(train): 0.195
+error(test): 0.23
+Politicians dataset result:
+error(train): 0.140939597315
+error(test): 0.156626506024
+Both for training data and testing data, politicians dataset si more accurate.

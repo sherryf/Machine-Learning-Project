@@ -1,0 +1,5 @@
+What did you observe, and how well did your program do? What, if anything, can you learn
+from this?
+I observed that list-then-elimination algorithm first needed to list all the possible hypothesis based on the input space. After that, training data will help to shrink the version space. However, the speed of the algorithm will become really slow once the input space is large. Also, the training data plays an important role in this algorithm. If some of the training data conflict with others, the version space will become null. Or if there are plenty of training data, then probably there are no hypothesis left.
+For the voting part, some results are 16 vs 16 which is meaningless for the problem. The results do not very helpful for me to make a decision.
+When I need to determine which algorithm to use, I need to observe the training data, the size input space and the size of concept space carefully. This will highly influence how the results will become. Sometimes listing all the possible hypothesis is not an efficient way to solve problem.

@@ -1,0 +1,8 @@
+Try your program with q = 0,0.1,0.5,1,5—what values seem to improve the classifier?
+q = 0   -> Error, cannot be 0
+q = 0.1 -> Accuracy: 0.8333
+q = 0.5 -> Accuracy: 0.8056
+q = 1   -> Accuracy: 0.8056
+q = 5   -> Accuracy: 0.6944
+
+use q = 0.1 will improve the accuracy.

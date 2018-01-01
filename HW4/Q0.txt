@@ -1,0 +1,5 @@
+Do you think a decision tree will work for the politician dataset? What about for the education dataset?
+Yes. I think decision tree will work for the politician dataset. First, the attributes of the politician dataset are small. Also, for every attribute, there are only two possible outputs: no or yes. Finally, the politician result only contains binary outputs: democrat or republican. Using decision tree will make the machine learning process more efficient and use the data more sufficiently.
+And for the education dataset, the reason is similar with the politician dataset. The number of attributes is small. All the attributes M1 to M5, P1 to P4 and F have binary outputs: A or notA. The finally result for the student grade has binary outputs.
+Generally, decision tree work well when instances of the dataset can be described by attribute-value pairs. And the target function is discrete valued. During the prediction, disjunctive hypothesis may be required. Also, the training data will have some possible noisy training data.
+
